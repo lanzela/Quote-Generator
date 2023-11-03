@@ -1,6 +1,7 @@
 # Quote Generator
 
 This is a simple web application that generates random quotes and provides various functionalities to interact with them. You can generate a random quote, copy it to your clipboard, tweet it, and even convert the text to speech.
+
 <img width="374" alt="Final Result" src="https://github.com/lanzela/Quote-Generator/assets/91339323/c4b88104-4698-494e-9bc1-9abf73348cb7">
 
 ## Features
