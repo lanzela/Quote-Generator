@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <link rel="stylesheet" href="quote.css">
+    <title> Quote Generator </title>
+</head>
+<body>
+    <div class="quote-area">
+        <h1> Quote of the Day </h1>
+        <blockquote id="quote">Loading...</blockquote>
+        <span id="author">Loading...</span>
+        <div class="func">   
+                <button onclick ="copy()"><img src="copy.png"></button>
+                <button onclick="getquote(api_url);"> New Quote </button>
+                <button onclick="tweet()"><img src="xlogo.png"></button>
+                <button onclick="sound()"><img src="sound.png"></button>
+        </div> 
+    </div>
+    <script src="quote.js"> </script>
+</body>
+</html>
