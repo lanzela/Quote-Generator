@@ -14,6 +14,9 @@ This is a simple web application that generates random quotes and provides vario
 
 - **Text to Speech**: Click the sound logo button to have the current quote read out loud using text-to-speech technology.
 
+## Responsive Design
+
+This project is designed to work seamlessly on both desktop and mobile devices. The responsive design ensures that the user experience is consistent, no matter what device you are using.
 
 ## How to Use
 
@@ -26,10 +29,16 @@ git clone https://github.com/yourusername/quote-generator.git
 2. Open the `index.html` file in your web browser.
 
 3. Use the buttons on the page to interact with the quotes.
+ 
+## Project Structure
 
-## Responsive Design
+The project structure is organized as follows:
 
-This project is designed to work seamlessly on both desktop and mobile devices. The responsive design ensures that the user experience is consistent, no matter what device you are using.
+quote.html - The main HTML file that contains the structure of the to-do list.
+
+quote.css - The CSS file for styling the to-do list.
+
+quote.js - The JavaScript file containing the logic and functionalities of the to-do list.
 
 ## Credits
 
