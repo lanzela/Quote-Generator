@@ -10,7 +10,7 @@ This is a simple web application that generates random quotes and provides vario
 
 - **Copy Quote**: Click the copy logo button to copy the current quote to your clipboard. You can then paste it wherever you like.
 
-- **Tweet Quote**: Click the X logo button to share the current quote on Twitter.
+- **Tweet Quote**: Click the X logo button to share the current quote on X.
 
 - **Text to Speech**: Click the sound logo button to have the current quote read out loud using text-to-speech technology.
 
